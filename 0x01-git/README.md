@@ -1,1 +1,1 @@
-Im inside my new directory
+How to be up to date in git
